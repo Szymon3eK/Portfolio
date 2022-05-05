@@ -19,6 +19,12 @@ h2 {
     color: black;
 }
 
+h3 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 35px;
+    color: black;
+}
+
 h4 {
     font-family: 'Work Sans', sans-serif;
     font-size: 15px;
@@ -102,4 +108,16 @@ button:hover {
     font-size: 35px;
     transition-duration: 0.7s;
   }
+
+.left {
+    width: 95%;
+    margin-left: auto;
+    text-align: left;
+}
+
+.right {
+    width: 95%;
+    margin-right: auto;
+    text-align: right;
+}
 
