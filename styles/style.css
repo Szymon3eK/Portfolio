@@ -1,0 +1,105 @@
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+
+h2 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    color: black;
+}
+
+h4 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    width: 70%;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+}
+
+#kontener {
+    border: 5px solid linear-gradient(0deg, rgba(0,0,0,0.9813112745098039) 0%, rgba(54,54,54,1) 100%);
+}
+
+
+.kartka {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 12px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 85%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.footer {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 12px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+#karta {
+    color: black;
+    text-align: center;
+    margin-top: -1%;
+    letter-spacing: 150px;
+}
+
+a {
+    color: hotpink;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: purple;
+}
+
+button {
+    background-color: white;
+    border-radius: 8px;
+    border: none;
+    color: black;
+    border: 1px solid black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+    transition-duration: 0.7s;
+  }
+  
+button:hover {
+    background: linear-gradient(146deg, rgba(247, 82, 238, 0.981) 0%, rgba(239,166,254,1) 100%);;
+    border: 1px solid black;
+    color: black;
+    font-size: 35px;
+    transition-duration: 0.7s;
+  }
+
